@@ -1,0 +1,24 @@
+{
+    "Anna": {
+        "Player pokemon": [
+            "Marowak",
+            "Chikorita",
+            "Kyogre"
+        ],
+        "Pokeballs": 0,
+        "Berries": 2,
+        "Last player location": "Cave",
+        "Xp": 300
+    },
+    "Arina": {
+        "Player pokemon": [
+            "Snorlax",
+            "Sharpedo",
+            "Charizard"
+        ],
+        "Pokeballs": 4,
+        "Berries": 1,
+        "Last player location": "Mountains",
+        "Xp": 400
+    }
+}

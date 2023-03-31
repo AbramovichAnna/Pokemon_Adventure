@@ -1,0 +1,464 @@
+{
+  "Bulbasaur": {
+    "pokedex_number": 1,
+    "weight": 6.9,
+    "height": 0.7,
+    "type1": "grass"
+  },
+  "Ivysaur": {
+    "pokedex_number": 2,
+    "weight": 13,
+    "height": 1,
+    "type1": "grass"
+  },
+  "Venusaur": {
+    "pokedex_number": 3,
+    "weight": 100,
+    "height": 2,
+    "type1": "grass"
+  },
+  "Charmander": {
+    "pokedex_number": 4,
+    "weight": 8.5,
+    "height": 0.6,
+    "type1": "fire"
+  },
+  "Charmeleon": {
+    "pokedex_number": 5,
+    "weight": 19,
+    "height": 1.1,
+    "type1": "fire"
+  },
+  "Charizard": {
+    "pokedex_number": 6,
+    "weight": 90.5,
+    "height": 1.7,
+    "type1": "fire"
+  },
+  "Squirtle": {
+    "pokedex_number": 7,
+    "weight": 9,
+    "height": 0.5,
+    "type1": "water"
+  },
+  "Wartortle": {
+    "pokedex_number": 8,
+    "weight": 22.5,
+    "height": 1,
+    "type1": "water"
+  },
+  "Blastoise": {
+    "pokedex_number": 9,
+    "weight": 85.5,
+    "height": 1.6,
+    "type1": "water"
+  },
+  "Caterpie": {
+    "pokedex_number": 10,
+    "weight": 2.9,
+    "height": 0.3,
+    "type1": "bug"
+  },
+  "Pidgeotto": {
+    "pokedex_number": 17,
+    "weight": 30,
+    "height": 1.1,
+    "type1": "normal"
+  },
+  "Rattata": {
+    "pokedex_number": 19,
+    "weight": 3.5,
+    "height": 0.3,
+    "type1": "dark"
+  },
+  "Ekans": {
+    "pokedex_number": 23,
+    "weight": 6.9,
+    "height": 2,
+    "type1": "poison"
+  },
+  "Pikachu": {
+    "pokedex_number": 25,
+    "weight": 6,
+    "height": 0.4,
+    "type1": "electric"
+  },
+  "Raichu": {
+    "pokedex_number": 26,
+    "weight": 30,
+    "height": 0.8,
+    "type1": "electric"
+  },
+  "Vulpix": {
+    "pokedex_number": 37,
+    "weight": 9.9,
+    "height": 0.6,
+    "type1": "fire"
+  },
+  "Ninetales": {
+    "pokedex_number": 38,
+    "weight": 19.9,
+    "height": 1.1,
+    "type1": "fire"
+  },
+  "Zubat": {
+    "pokedex_number": 41,
+    "weight": 7.5,
+    "height": 0.8,
+    "type1": "poison"
+  },
+  "Diglett": {
+    "pokedex_number": 50,
+    "weight": 0.8,
+    "height": 0.2,
+    "type1": "ground"
+  },
+  "Psyduck": {
+    "pokedex_number": 54,
+    "weight": 19.6,
+    "height": 0.8,
+    "type1": "water"
+  },
+  "Geodude": {
+    "pokedex_number": 74,
+    "weight": 20,
+    "height": 0.4,
+    "type1": "rock"
+  },
+  "Ponyta": {
+    "pokedex_number": 77,
+    "weight": 30,
+    "height": 1,
+    "type1": "fire"
+  },
+  "Slowpoke": {
+    "pokedex_number": 79,
+    "weight": 36,
+    "height": 1.2,
+    "type1": "water"
+  },
+  "Magnemite": {
+    "pokedex_number": 81,
+    "weight": 6,
+    "height": 0.3,
+    "type1": "electric"
+  },
+  "Farfetch'd": {
+    "pokedex_number": 83,
+    "weight": 15,
+    "height": 0.8,
+    "type1": "normal"
+  },
+  "Gastly": {
+    "pokedex_number": 92,
+    "weight": 0.1,
+    "height": 1.3,
+    "type1": "ghost"
+  },
+  "Gengar": {
+    "pokedex_number": 94,
+    "weight": 40.5,
+    "height": 1.5,
+    "type1": "ghost"
+  },
+  "Onix": {
+    "pokedex_number": 95,
+    "weight": 210,
+    "height": 8.8,
+    "type1": "rock"
+  },
+  "Voltorb": {
+    "pokedex_number": 100,
+    "weight": 10.4,
+    "height": 0.5,
+    "type1": "electric"
+  },
+  "Cubone": {
+    "pokedex_number": 104,
+    "weight": 6.5,
+    "height": 0.4,
+    "type1": "ground"
+  },
+  "Marowak": {
+    "pokedex_number": 105,
+    "weight": 45,
+    "height": 1,
+    "type1": "ground"
+  },
+  "Lickitung": {
+    "pokedex_number": 108,
+    "weight": 65.5,
+    "height": 1.2,
+    "type1": "normal"
+  },
+  "Koffing": {
+    "pokedex_number": 109,
+    "weight": 1,
+    "height": 0.6,
+    "type1": "poison"
+  },
+  "Rhyhorn": {
+    "pokedex_number": 111,
+    "weight": 115,
+    "height": 1,
+    "type1": "ground"
+  },
+  "Kangaskhan": {
+    "pokedex_number": 115,
+    "weight": 80,
+    "height": 2.2,
+    "type1": "normal"
+  },
+  "Horsea": {
+    "pokedex_number": 116,
+    "weight": 8,
+    "height": 0.4,
+    "type1": "water"
+  },
+  "Magikarp": {
+    "pokedex_number": 129,
+    "weight": 10,
+    "height": 0.9,
+    "type1": "water"
+  },
+  "Gyarados": {
+    "pokedex_number": 130,
+    "weight": 235,
+    "height": 6.5,
+    "type1": "water"
+  },
+  "Lapras": {
+    "pokedex_number": 131,
+    "weight": 220,
+    "height": 2.5,
+    "type1": "water"
+  },
+  "Ditto": {
+    "pokedex_number": 132,
+    "weight": 4,
+    "height": 0.3,
+    "type1": "normal"
+  },
+  "Eevee": {
+    "pokedex_number": 133,
+    "weight": 6.5,
+    "height": 0.3,
+    "type1": "normal"
+  },
+  "Vaporeon": {
+    "pokedex_number": 134,
+    "weight": 29,
+    "height": 1,
+    "type1": "water"
+  },
+  "Jolteon": {
+    "pokedex_number": 135,
+    "weight": 24.5,
+    "height": 0.8,
+    "type1": "electric"
+  },
+  "Flareon": {
+    "pokedex_number": 136,
+    "weight": 25,
+    "height": 0.9,
+    "type1": "fire"
+  },
+  "Aerodactyl": {
+    "pokedex_number": 142,
+    "weight": 59,
+    "height": 1.8,
+    "type1": "rock"
+  },
+  "Snorlax": {
+    "pokedex_number": 143,
+    "weight": 460,
+    "height": 2.1,
+    "type1": "normal"
+  },
+  "Dratini": {
+    "pokedex_number": 147,
+    "weight": 3.3,
+    "height": 1.8,
+    "type1": "water"
+  },
+  "Dragonair": {
+    "pokedex_number": 148,
+    "weight": 16.5,
+    "height": 4,
+    "type1": "dragon"
+  },
+  "Dragonite": {
+    "pokedex_number": 149,
+    "weight": 210,
+    "height": 2.2,
+    "type1": "dragon"
+  },
+  "Mewtwo": {
+    "pokedex_number": 150,
+    "weight": 122,
+    "height": 2,
+    "type1": "psychic"
+  },
+  "Mew": {
+    "pokedex_number": 151,
+    "weight": 4,
+    "height": 0.4,
+    "type1": "psychic"
+  },
+  "Chikorita": {
+    "pokedex_number": 152,
+    "weight": 6.4,
+    "height": 0.9,
+    "type1": "grass"
+  },
+  "Cyndaquil": {
+    "pokedex_number": 155,
+    "weight": 7.9,
+    "height": 0.5,
+    "type1": "fire"
+  },
+  "Feraligatr": {
+    "pokedex_number": 160,
+    "weight": 88.8,
+    "height": 2.3,
+    "type1": "water"
+  },
+  "Pichu": {
+    "pokedex_number": 172,
+    "weight": 2,
+    "height": 0.3,
+    "type1": "electric"
+  },
+  "Azumarill": {
+    "pokedex_number": 184,
+    "weight": 28.5,
+    "height": 0.8,
+    "type1": "water"
+  },
+  "Espeon": {
+    "pokedex_number": 196,
+    "weight": 26.5,
+    "height": 0.9,
+    "type1": "psychic"
+  },
+  "Umbreon": {
+    "pokedex_number": 197,
+    "weight": 27,
+    "height": 1,
+    "type1": "dark"
+  },
+  "Wobbuffet": {
+    "pokedex_number": 202,
+    "weight": 28.5,
+    "height": 1.3,
+    "type1": "psychic"
+  },
+  "Steelix": {
+    "pokedex_number": 208,
+    "weight": 400,
+    "height": 9.2,
+    "type1": "steel"
+  },
+  "Miltank": {
+    "pokedex_number": 241,
+    "weight": 75.5,
+    "height": 1.2,
+    "type1": "normal"
+  },
+  "Entei": {
+    "pokedex_number": 244,
+    "weight": 198,
+    "height": 2.1,
+    "type1": "fire"
+  },
+  "Ho-Oh": {
+    "pokedex_number": 250,
+    "weight": 199,
+    "height": 3.8,
+    "type1": "fire"
+  },
+  "Treecko": {
+    "pokedex_number": 252,
+    "weight": 5,
+    "height": 0.5,
+    "type1": "grass"
+  },
+  "Torchic": {
+    "pokedex_number": 255,
+    "weight": 2.5,
+    "height": 0.4,
+    "type1": "fire"
+  },
+  "Mudkip": {
+    "pokedex_number": 258,
+    "weight": 7.6,
+    "height": 0.4,
+    "type1": "water"
+  },
+  "Pelipper": {
+    "pokedex_number": 279,
+    "weight": 28,
+    "height": 1.2,
+    "type1": "water"
+  },
+  "Sableye": {
+    "pokedex_number": 302,
+    "weight": 11,
+    "height": 0.5,
+    "type1": "dark"
+  },
+  "Electrike": {
+    "pokedex_number": 309,
+    "weight": 15.2,
+    "height": 0.6,
+    "type1": "electric"
+  },
+  "Sharpedo": {
+    "pokedex_number": 319,
+    "weight": 88.8,
+    "height": 1.8,
+    "type1": "water"
+  },
+  "Wailord": {
+    "pokedex_number": 321,
+    "weight": 398,
+    "height": 14.5,
+    "type1": "water"
+  },
+  "Metang": {
+    "pokedex_number": 375,
+    "weight": 202.5,
+    "height": 1.2,
+    "type1": "steel"
+  },
+  "Metagross": {
+    "pokedex_number": 376,
+    "weight": 550,
+    "height": 1.6,
+    "type1": "steel"
+  },
+  "Regirock": {
+    "pokedex_number": 377,
+    "weight": 230,
+    "height": 1.7,
+    "type1": "rock"
+  },
+  "Latias": {
+    "pokedex_number": 380,
+    "weight": 40,
+    "height": 1.4,
+    "type1": "dragon"
+  },
+  "Kyogre": {
+    "pokedex_number": 382,
+    "weight": 352,
+    "height": 4.5,
+    "type1": "water"
+  },
+  "Groudon": {
+    "pokedex_number": 383,
+    "weight": 950,
+    "height": 3.5,
+    "type1": "ground"
+  }
+}
