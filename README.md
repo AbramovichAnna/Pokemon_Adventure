@@ -42,7 +42,11 @@ Welcome to the Pokemon Adventure Game! This console-based game is designed for p
 
 ## Gameplay
 
-1. Start a new game, create new player or load an existing player from a JSON file, or overwrite an existing player's data.
+1. Start a new game
+```bash
+python main.py
+```
+ create new player or load an existing player from a JSON file, or overwrite an existing player's data.
 2. Choose an area to search for Pokémon (Cave, Forest, Lake, or Mountain).
 3. View player information, a list of captured Pokémon, or a list of all Pokémon in the game.
 4. Capture a Pokémon or pick up items (Poké Balls, Forest Berries) during your adventure.
