@@ -1,74 +1,51 @@
-# Pokemon Adventure
+# Pokémon Capture Console Game
 
-Welcome to Pokemon Adventure, an exciting console game where your mission is simple - capture as many Pokemon as you can! In this game, you play as a trainer who starts with just 5 Poke Balls, but if luck is on your side, you can find more while embarking on your adventure. You have the freedom to choose different search areas like caves, forests, lakes, or mountains, each inhabited by local Pokemon.
+                                  ,'\\
+    _.----.        ____         ,'  _\   ___    ___     ____
+_,-'       `.     |    |  /`.   \,-'    |   \  /   |   |    \  |`.
+\      __    \    '-.  | /   `.  ___    |    \/    |   '-.   \ |  |
+ \.    \ \   |  __  |  |/    ,','_  `.  |          | __  |    \|  |
+   \    \/   /,' _`.|      ,' / / / /   |          ,' _`.|     |  |
+    \     ,-'/  /   \    ,'   | \/ / ,`.|         /  /   \  |     |
+     \    \ |   \_/  |   `-.  \    `'  /|  |    ||   \_/  | |\    |
+      \    \ \      /       `-.`.___,-' |  |\  /| \      /  | |   |
+       \    \ `.__,'|  |`-._    `|      |__| \/ |  `.__,'|  | |   |
+        \_.-'       |__|    `-._ |              '-.|     '-.| |   |
+                                `'                            '-._|
 
-But beware, Team Rocket has been spotted in the area! They might try to steal your hard-earned Pokemon.
+## Introduction
 
-## Table of Contents
+Welcome to the Pokémon Capture Console Game! This game aims to help practice object-oriented programming (OOP) concepts while having fun capturing Pokémon. In this game, your goal is simple: capture as many Pokémon as you can to earn XP points. Each captured Pokémon will reward you with 100 XP. You start the game with 5 Poké Balls, but you can find more during your adventures. Be cautious, though, as Team Rocket may appear and steal some of your captured Pokémon.
 
-- [Description](#description)
-- [Files](#files)
-- [Gameplay Actions](#gameplay-actions)
+## Files Description
 
-## Description
+- **PLAYER – Class Player:** Defines the player's attributes. The player starts with an empty Pokémon list, 5 Poké Balls, 5 Forest Berries, and 0 points. The player's data and the list of captured Pokémon are saved in separate JSON files at the end of the game.
 
-In Pokemon Adventure, your goal is to capture as many Pokemon as possible and earn 100 XP points for each Pokemon caught. You begin the game with 5 Poke Balls, 5 Forest Berries, and 0 points. At the end of the game, your player data and the list of caught Pokemon are saved in separate JSON files.
+- **POKEMONS – Class Pokemon:** Contains attributes of different Pokémon, such as their name, Pokédex number, type, weight, and height. This data is loaded from a JSON file.
 
-## Files
+- **LOCATIONS - Class Cave, Class Forest, Class Lake, Class Mountain:** Represents different areas where Pokémon can be found. Each class contains the Pokémon native to that area. The data is stored in separate JSON files, and Pokémon are randomly distributed within each area.
 
-### PLAYER – Class Player
+- **MENUS:** Contains game menus and user prompts.
 
-- Defines player attributes, including an empty list of caught Pokemon, 5 Poke Balls, 5 Forest Berries, and 0 points.
-- Player data and the list of caught Pokemon are saved in a separate JSON file at the end of the game.
+- **ACTIONS:** Contains various game functions.
 
-### POKEMONS – Class Pokemon
+- **COMMANDS:** Defines commands and their functionality.
 
-- Contains attributes of different Pokemon, such as name, Pokedex number, type, weight, and height.
-- Pokemon data is retrieved from a JSON file.
+- **DIALOGUE:** Contains introductory and in-game dialogues.
 
-### LOCATIONS - Classes Cave, Forest, Lake, Mountain
+- **ART:** Stores game illustrations.
 
-- Define different search areas where players can find Pokemon.
-- Pokemon are randomly distributed within each area based on their type.
-- Information about encountered Pokemon in each area is saved in separate JSON files.
+- **UTILS:** Contains text formatting settings.
 
-### MENUS
+- **MAIN:** The main game file.
 
-- Contains in-game menus and options.
+## Gameplay
 
-### ACTIONS
+1. Start a new game, load an existing player from a JSON file, or overwrite an existing player's data.
+2. Choose an area to search for Pokémon (Cave, Forest, Lake, or Mountain).
+3. View player information, a list of captured Pokémon, or a list of all Pokémon in the game.
+4. Capture a Pokémon or pick up items (Poké Balls, Forest Berries) during your adventure.
+5. Save player data, area information, and the list of captured Pokémon to separate JSON files.
+6. Encounter random events, such as finding items or facing Team Rocket.
 
-- Contains game functions and actions.
-
-### COMMANDS
-
-- Defines game commands.
-
-### DIALOGUE
-
-- Contains introductory dialogues and in-game dialogues.
-
-### ART
-
-- Contains game illustrations.
-
-### UTILS
-
-- Defines text formatting and utility functions.
-
-### MAIN
-
-- Main game file.
-
-## Gameplay Actions
-
-During the game, you can perform various actions:
-
-- Choosing a new player or selecting an existing player from a JSON file.
-- Selecting search areas.
-- Viewing player data, a list of caught Pokemon, or a list of all Pokemon in the game.
-- Adding caught Pokemon to your list and adding items found during the game to your inventory.
-- Saving player data, area information, and the list of caught Pokemon to separate JSON files.
-- Random appearances of Poke Balls, Forest Berries, wild Pokemon, and Team Rocket encounters.
-
-Enjoy your adventure in the world of Pokemon! Good luck, trainer!
+Have fun capturing Pokémon and improving your object-oriented programming skills with the Pokémon Capture Console Game!
