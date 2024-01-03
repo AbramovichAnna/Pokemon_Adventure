@@ -1,4 +1,4 @@
-# Pokémon Capture Console Game
+# Pokémon Adventure Console Game
 ```
                                   ,'\\
     _.----.        ____         ,'  _\   ___    ___     ____
@@ -16,7 +16,7 @@ _,-'       `.     |    |  /`.   \,-'    |   \  /   |   |    \  |`.
 
 ## Introduction
 
-Welcome to the Pokemon Catching Game! This console-based game is designed for practicing Object-Oriented Programming (OOP) skills. The goal of the game is simple: catch as many Pokemon as you can and earn XP points for each captured Pokemon. You'll start the game with 5 Poke Balls, but if luck is on your side, you might find more during your adventure. Be cautious, though, as Team Rocket may appear and attempt to steal your hard-earned Pokemon.
+Welcome to the Pokemon Adventure Game! This console-based game is designed for practicing Object-Oriented Programming (OOP) skills. The goal of the game is simple: catch as many Pokemon as you can and earn XP points for each captured Pokemon. You'll start the game with 5 Poke Balls, but if luck is on your side, you might find more during your adventure. Be cautious, though, as Team Rocket may appear and attempt to steal your hard-earned Pokemon.
 
 ## Files Description
 
@@ -42,11 +42,11 @@ Welcome to the Pokemon Catching Game! This console-based game is designed for pr
 
 ## Gameplay
 
-1. Start a new game, load an existing player from a JSON file, or overwrite an existing player's data.
+1. Start a new game, create new player or load an existing player from a JSON file, or overwrite an existing player's data.
 2. Choose an area to search for Pokémon (Cave, Forest, Lake, or Mountain).
 3. View player information, a list of captured Pokémon, or a list of all Pokémon in the game.
 4. Capture a Pokémon or pick up items (Poké Balls, Forest Berries) during your adventure.
 5. Save player data, area information, and the list of captured Pokémon to separate JSON files.
 6. Encounter random events, such as finding items or facing Team Rocket.
 
-Have fun capturing Pokémon and improving your object-oriented programming skills with the Pokémon Capture Console Game!
+Have fun capturing Pokémon with the Pokémon Adventure Console Game!
