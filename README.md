@@ -16,7 +16,7 @@ _,-'       `.     |    |  /`.   \,-'    |   \  /   |   |    \  |`.
 
 ## Introduction
 
-Welcome to the Pokémon Capture Console Game! This game aims to help practice object-oriented programming (OOP) concepts while having fun capturing Pokémon. In this game, your goal is simple: capture as many Pokémon as you can to earn XP points. Each captured Pokémon will reward you with 100 XP. You start the game with 5 Poké Balls, but you can find more during your adventures. Be cautious, though, as Team Rocket may appear and steal some of your captured Pokémon.
+Welcome to the Pokemon Catching Game! This console-based game is designed for practicing Object-Oriented Programming (OOP) skills. The goal of the game is simple: catch as many Pokemon as you can and earn XP points for each captured Pokemon. You'll start the game with 5 Poke Balls, but if luck is on your side, you might find more during your adventure. Be cautious, though, as Team Rocket may appear and attempt to steal your hard-earned Pokemon.
 
 ## Files Description
 
